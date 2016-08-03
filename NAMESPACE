@@ -1,0 +1,4 @@
+exportPattern("^[[:alpha:]]+")
+import(scatterplot3d)
+importFrom("graphics", "plot")
+export(MagneticMap)
